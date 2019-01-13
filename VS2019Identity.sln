@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VS2019WebApp2", "VS2019WebApp2.csproj", "{D6D8B4BA-5B69-47DB-8D83-651D50DC6806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VS2019Identity", "VS2019Identity.csproj", "{D6D8B4BA-5B69-47DB-8D83-651D50DC6806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
