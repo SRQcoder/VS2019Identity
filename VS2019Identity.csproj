@@ -13,6 +13,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0-preview-18579-0056" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0-preview.18572.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0-preview.18572.1" />
+    <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="1.0.172" />
   </ItemGroup>
   
 </Project>
